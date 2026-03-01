@@ -1,0 +1,16 @@
+api_key.txt
+.env
+__pycache__/
+*.pyc
+*.xlsx
+.DS_Store
+# Ignorar arquivo com chave da API
+api_key.txt
+
+# Ignorar arquivos de teste / apps antigos
+app2.py
+__pycache__/
+*.pyc
+
+# Arquivos do Excel gerados
+*.xlsx
